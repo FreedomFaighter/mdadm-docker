@@ -1,3 +1,5 @@
+[![mdadm Docker Image CI](https://github.com/FreedomFaighter/mdadm-docker/actions/workflows/docker-image.yml/badge.svg)](https://github.com/FreedomFaighter/mdadm-docker/actions/workflows/docker-image.yml)
+
 # `mdadm` RAID Recovery Docker Image
 
 This Docker image provides a containerized environment equipped with tools (`mdadm` and `parted`) to assist in RAID recovery efforts.
